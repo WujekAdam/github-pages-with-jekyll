@@ -6,7 +6,8 @@ date: 2018-12-19
 title: "The exciting journeys of boring people"
 author: Patryk
 email: patkowalski89@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+
+description: >
   I'm glad you are here. I plan to talk about ... Some cool things you can do with your *GitHub* account.
 This will be the **first** made-by-me page.
 
